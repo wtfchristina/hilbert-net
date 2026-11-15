@@ -1,5 +1,7 @@
 # HilbertNet — MERA-QCNN & Quantum Phase Manifold Studio
 
+![HilbertNet MERA-QCNN Studio](public/hilbert-net-hero.jpg)
+
 An interactive 3D WebGL & TypeScript quantum machine learning laboratory modeling **Multi-scale Entanglement Renormalization Ansatz (MERA) Quantum Convolutional Neural Networks** on the 1D **Cluster-Ising Hamiltonian**.
 
 ## Scientific & Architectural Highlights
